@@ -1,0 +1,24 @@
+body {
+  background: url(../images/stripe.jpg) repeat-x;
+}
+
+#page > section #content-container {
+  background: url(../images/base.png) repeat-y;
+}
+
+#zones-content #region-content {
+  padding: 20px;
+}
+
+#branding-container {
+  background: url(../images/topo.jpg) no-repeat;
+  height: 200px;
+}
+
+#branding-container .logo-img {
+  margin: 10px 0 0 15px;
+}
+
+h1 {
+  display: none;
+}
